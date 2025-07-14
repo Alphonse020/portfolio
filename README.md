@@ -2,6 +2,10 @@
 
 Welcome to my personal developer portfolio! This project showcases my skills, projects, and experiences as a passionate IT professional and developer. Built with clean code, responsive design, and modern web technologies.
 
+## 🔥 Live Demo
+
+👉 [View Portfolio Live](https://alphonse020.github.io/portfolio/)
+
 ## 📁 Features
 
 - ✨ Responsive design for mobile and desktop
